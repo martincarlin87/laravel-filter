@@ -1,5 +1,5 @@
 {
-    "name": "czim/laravel-filter",
+    "name": "martincarlin87/laravel-filter",
     "description": "Filter for Laravel Eloquent queries, with support for modular filter building",
     "keywords": [
         "laravel",
@@ -8,7 +8,7 @@
         "eloquent",
         "database"
     ],
-    "homepage": "https://github.com/czim/laravel-filter",
+    "homepage": "https://github.com/martincarlin87/laravel-filter",
     "license": "MIT",
     "authors": [
         {
